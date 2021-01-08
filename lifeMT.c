@@ -317,13 +317,6 @@ int main(int argc,char* argv[])
     fclose(final);
     freeBoard(b0);
     freeBoard(b1);
-   
-   */
-   /*
-    * This is where you should implement your multi-threaded version.
-    * Feel free to add as many auxiliary routines (helper functions)
-    * As you see fit.
-    */
 
    return 0;
 } 
